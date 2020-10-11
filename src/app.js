@@ -2,7 +2,9 @@
 //We've got some basic info about Karen's home
 //Debug the type of data provided
 //Return the types concatenated in a single variable
-
+function moreAboutHome(address, distanceFromTown, hasNeighbours){
+    
+}
 //Progression 2:
 //Check if the data given is of the right type
 //parents = String, noOfSiblings = Number, isNuclearFamily = Boolean
